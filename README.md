@@ -31,3 +31,10 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ## ref
 
 [ref hexo搭建](https://segmentfault.com/a/1190000017986794)
+
+
+## git source code 
+
+```
+repo init -u  git@github.com:gxx9203/manifests.git -m hexo.xml
+```
