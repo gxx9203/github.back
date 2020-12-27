@@ -38,3 +38,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ```
 repo init -u  git@github.com:gxx9203/manifests.git -m hexo.xml
 ```
+
+## start 
+```
+git checkout -b hexo  origin/hexo 
+```
