@@ -20,5 +20,5 @@ hexo generate
 
 # deploy
 ```
-hex depoy
+hexo depoy
 ```
